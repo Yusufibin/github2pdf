@@ -1,5 +1,5 @@
 
-# Github2pdf
+# Github2pdf .
 
 Github2pdf est un outil en ligne de commande qui permet de télécharger le contenu d'un dépôt GitHub et de le convertir en un fichier PDF unique. Cet outil est particulièrement utile pour les développeurs qui souhaitent avoir une vue d'ensemble de leur code source dans un format facilement partageable et imprimable.
 
