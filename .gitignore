@@ -13,3 +13,14 @@ env/
 
 # Output files
 *.pdf
+
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+output/
+.env
+.env.*
+!docs/github2pdf-demo.pdf
